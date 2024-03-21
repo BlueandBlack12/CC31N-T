@@ -3,11 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A5AB993-34DB-4570-AABB-386441C26E2F}|CC31N-TeamWP.csproj|c:\\users\\admin\\source\\repos\\cc31n-teamwp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A5AB993-34DB-4570-AABB-386441C26E2F}|CC31N-TeamWP.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58BCCB89-A5B5-4BEF-B970-338EC1DF644B}|..\\Engine\\Engine.csproj|c:\\users\\admin\\source\\repos\\engine\\viewmodels\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58BCCB89-A5B5-4BEF-B970-338EC1DF644B}|..\\Engine\\Engine.csproj|c:\\users\\admin\\source\\repos\\engine\\viewmodels\\gamesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58BCCB89-A5B5-4BEF-B970-338EC1DF644B}|..\\Engine\\Engine.csproj|c:\\users\\admin\\source\\repos\\engine\\factories\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A5AB993-34DB-4570-AABB-386441C26E2F}|CC31N-TeamWP.csproj|c:\\users\\admin\\source\\repos\\cc31n-teamwp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A5AB993-34DB-4570-AABB-386441C26E2F}|CC31N-TeamWP.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A5AB993-34DB-4570-AABB-386441C26E2F}|CC31N-TeamWP.csproj|c:\\users\\admin\\source\\repos\\cc31n-teamwp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -17,13 +20,10 @@
       "AbsoluteMoniker": "D:0:0:{58BCCB89-A5B5-4BEF-B970-338EC1DF644B}|..\\Engine\\Engine.csproj|c:\\users\\admin\\source\\repos\\engine\\models\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58BCCB89-A5B5-4BEF-B970-338EC1DF644B}|..\\Engine\\Engine.csproj|c:\\users\\admin\\source\\repos\\engine\\factories\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{58BCCB89-A5B5-4BEF-B970-338EC1DF644B}|..\\Engine\\Engine.csproj|c:\\users\\admin\\source\\repos\\engine\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP1\\Engine\\Models\\Location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58BCCB89-A5B5-4BEF-B970-338EC1DF644B}|..\\Engine\\Engine.csproj|c:\\users\\admin\\source\\repos\\engine\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,45 +33,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "WorldFactory.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Engine\\Factories\\WorldFactory.cs",
               "RelativeDocumentMoniker": "..\\Engine\\Factories\\WorldFactory.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Engine\\Factories\\WorldFactory.cs",
               "RelativeToolTip": "..\\Engine\\Factories\\WorldFactory.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T15:17:08.687Z",
+              "WhenOpened": "2024-03-21T23:09:01.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:51:34.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameSession.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Engine\\ViewModels\\GameSession.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\ViewModels\\GameSession.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Engine\\ViewModels\\GameSession.cs*",
+              "RelativeToolTip": "..\\Engine\\ViewModels\\GameSession.cs*",
+              "ViewState": "AQIAADIAAAAAAAAAAADgv0MAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T16:44:37.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "World.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Engine\\Models\\World.cs",
               "RelativeDocumentMoniker": "..\\Engine\\Models\\World.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Engine\\Models\\World.cs",
               "RelativeToolTip": "..\\Engine\\Models\\World.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T14:53:11.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Location.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP1\\Engine\\Models\\Location.cs",
-              "RelativeDocumentMoniker": "..\\CC31N-TeamWP1\\Engine\\Models\\Location.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP1\\Engine\\Models\\Location.cs",
-              "RelativeToolTip": "..\\CC31N-TeamWP1\\Engine\\Models\\Location.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T12:58:52.094Z",
+              "WhenOpened": "2024-03-21T16:44:36.577Z",
               "EditorCaption": ""
             },
             {
@@ -82,40 +95,27 @@
               "RelativeDocumentMoniker": "..\\Engine\\Models\\Player.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Engine\\Models\\Player.cs",
               "RelativeToolTip": "..\\Engine\\Models\\Player.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T02:18:39.356Z",
+              "WhenOpened": "2024-03-21T16:44:35.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameSession.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Engine\\ViewModels\\GameSession.cs",
-              "RelativeDocumentMoniker": "..\\Engine\\ViewModels\\GameSession.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Engine\\ViewModels\\GameSession.cs",
-              "RelativeToolTip": "..\\Engine\\ViewModels\\GameSession.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAA4AAAA",
+              "DocumentIndex": 6,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Engine\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "..\\Engine\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Engine\\Models\\Location.cs",
+              "RelativeToolTip": "..\\Engine\\Models\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T02:18:41.491Z",
+              "WhenOpened": "2024-03-21T16:44:33.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAASwBsAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T02:14:17.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\CC31N-TeamWP\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
