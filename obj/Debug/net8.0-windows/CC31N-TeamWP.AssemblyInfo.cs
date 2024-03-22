@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CC31N-TeamWP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60cf4b93af8397aeb66ed1fb42dca982eca83314")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+883606b6d157400f84db5f720094aec497d221ee")]
 [assembly: System.Reflection.AssemblyProductAttribute("CC31N-TeamWP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CC31N-TeamWP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

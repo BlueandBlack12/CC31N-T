@@ -75,5 +75,6 @@ namespace Engine.Models
         {
             Inventory = new ObservableCollection<GameItems>();
         }
+
     }
 }
